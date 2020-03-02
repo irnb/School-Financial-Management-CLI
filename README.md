@@ -10,3 +10,5 @@ i used Arraylist , Hashtabel and oop concept in it
 --student and teacher class also provided student and teacher details 
 
 --school class provided Relation between student and teacher  In terms of Financial
+
+(newbateni)
