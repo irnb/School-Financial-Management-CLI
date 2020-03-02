@@ -1,5 +1,5 @@
 # School-Financial-Management-CLI
-It's a  project for learning
+It's a  project for learning \n
 I've written it in Java
 
 i used Arraylist , Hashtabel and oop concept in it 
