@@ -1,2 +1,8 @@
 # School-Financial-Management-CLI
-this is traning project and i use Arraylist , hashtabel , oop to create . i wrote it in java language 
+It's a  project for learning
+I've written it in Java
+
+i used Arraylist , Hashtabel and oop concept in it 
+--show class provided CLI in this project 
+--student and teacher class also provided student and teacher details 
+--school class provided Relation between student and teacher  In terms of Financial
